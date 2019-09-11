@@ -8,8 +8,12 @@ namespace ConsoleApp1
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
+            int a = 100;
+            if (a == a)
+                Console.WriteLine();
         }
     }
 }
