@@ -11,7 +11,7 @@ namespace ConsoleApp1
        
         static void Main(string[] args)
         {
-            int a = 100;
+            int a = 500;
             if (a == a)
                 Console.WriteLine();
         }
